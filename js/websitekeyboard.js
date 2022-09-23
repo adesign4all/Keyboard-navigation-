@@ -42,7 +42,7 @@ if (f == 'OVER') {} else {
 	setCookie("AJ1", "//www.twitter.com", "/", null, false);
 	setCookie("AJ2", "//www.instagram.com", "/", null, false);
 	setCookie("AJ3", "//www.github.com", "/", null, false);
-	setCookie("AJ4", "www.guoaguoa.com", "/", null, false);
+	setCookie("AJ4", "//www.guoaguoa.com", "/", null, false);
 	setCookie("AJ5", "http://www.sina.com.cn", "/", null, false);
 	setCookie("AJ6", "http://www.sohu.com", "/", null, false);
 	setCookie("AJ7", "http://www.163.com", "/", null, false);
